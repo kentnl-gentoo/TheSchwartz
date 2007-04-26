@@ -1,4 +1,4 @@
-# $Id$
+# $Id: ExitStatus.pm 102 2006-08-23 21:40:26Z bradfitz $
 
 package TheSchwartz::ExitStatus;
 use strict;

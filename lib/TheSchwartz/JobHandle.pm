@@ -1,4 +1,4 @@
-# $Id$
+# $Id: JobHandle.pm 24 2006-05-01 19:40:38Z btrott $
 
 package TheSchwartz::JobHandle;
 use strict;

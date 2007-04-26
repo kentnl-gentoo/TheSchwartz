@@ -1,4 +1,4 @@
-# $Id$
+# $Id: TheSchwartz.pm 117 2007-04-26 08:24:55Z bradfitz $
 
 package TheSchwartz;
 use strict;

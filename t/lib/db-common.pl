@@ -1,4 +1,4 @@
-# $Id$
+# $Id: db-common.pl 91 2006-08-17 00:39:55Z bradfitz $
 
 use strict;
 use File::Spec;
