@@ -19,7 +19,7 @@ name: TheSchwartz
 provides:
   TheSchwartz:
     file: lib/TheSchwartz.pm
-    version: 1.11
+    version: 1.12
   TheSchwartz::Error:
     file: lib/TheSchwartz/Error.pm
   TheSchwartz::ExitStatus:
@@ -38,4 +38,4 @@ requires:
   Storable: 0
 resources:
   license: http://dev.perl.org/licenses/
-version: 1.11
+version: 1.12
